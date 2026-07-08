@@ -1,0 +1,49 @@
+# Laravel
+/vendor/
+/node_modules/
+/public/storage
+/storage/*.key
+/.env
+/.env.*
+/Homestead.yaml
+/Homestead.json
+/.phpunit.result.cache
+
+# Laravel specific cache and logs
+/storage/logs/
+/storage/framework/
+/bootstrap/cache/
+
+# Composer
+/composer.phar
+
+# NPM
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs and editors
+/.idea/
+*.iml
+/.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PHPStorm
+.phpstorm.meta.php
+
+# Flutter / Dart
+/.dart_tool/
+/.packages
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/build/
+/ios/Pods/
+/android/.gradle/
+/.flutter-*
+
+# Generated files
+*.log
+*.cache
