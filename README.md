@@ -2,7 +2,7 @@
 
 # Niyyah (نيّة)
 
-An Islamic personal habits & goals planner. Track daily worship habits with streaks, set one-time spiritual goals, and stay consistent — built with Flutter and Laravel.
+An Islamic personal habits & goals planner. Track daily worship habits with streaks, set one-time spiritual goals, and stay consistent, built with Flutter and Laravel.
 
 ![Demo](demo.png)
 
@@ -12,17 +12,17 @@ An Islamic personal habits & goals planner. Track daily worship habits with stre
 
 ## Overview
 
-Niyyah helps Muslims track two kinds of worship commitments: **habits** (recurring actions like daily prayers or Quran recitation, tracked with a streak counter) and **goals** (one-time objectives, marked done when complete). Everything is organized by category — Salah, Quran, Fasting, Dhikr, Sadaqah, Sunnah, Dua, Tawbah — with a clean, calm interface inspired by Islamic geometric patterns and mosque silhouettes.
+Niyyah helps Muslims track two kinds of worship commitments: **habits** (recurring actions like daily prayers or Quran recitation, tracked with a streak counter) and **goals** (one-time objectives, marked done when complete). Everything is organized by category, Salah, Quran, Fasting, Dhikr, Sadaqah, Sunnah, Dua, Tawbah — with a clean, calm interface inspired by Islamic geometric patterns and mosque silhouettes.
 
 ## Features
 
-- **Habits vs. Goals** — recurring streak-based habits and one-time binary goals, handled with distinct logic and UI
-- **Streak tracking** — one-tap daily logging, with duplicate-log prevention for the same day
-- **Category system** — 9 worship categories with dedicated icons and color coding
-- **Optional deadlines** — goals and habits can have a deadline or none at all
-- **Token-based auth** — secure login via Laravel Sanctum, persisted with encrypted local storage
-- **Custom-drawn Islamic UI** — hand-built mosque silhouette, geometric star pattern, and illustrated empty states — no image assets
-- **Search & filter** — filter goals/habits by type and category
+- **Habits vs. Goals**  recurring streak-based habits and one-time binary goals, handled with distinct logic and UI
+- **Streak tracking**  one-tap daily logging, with duplicate-log prevention for the same day
+- **Category system**  9 worship categories with dedicated icons and color coding
+- **Optional deadlines**  goals and habits can have a deadline or none at all
+- **Token-based auth**  secure login via Laravel Sanctum, persisted with encrypted local storage
+- **Custom-drawn Islamic UI**  hand-built mosque silhouette, geometric star pattern, and illustrated empty states  no image assets
+- **Search & filter**  filter goals/habits by type and category
 
 ## Tech Stack
 
