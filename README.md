@@ -4,7 +4,7 @@
 
 An Islamic personal habits & goals planner. Track daily worship habits with streaks, set one-time spiritual goals, and stay consistent — built with Flutter and Laravel.
 
-![Demo](public/demo.png)
+![Demo](demo.png)
 
 </div>
 
